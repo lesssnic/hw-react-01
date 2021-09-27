@@ -1,0 +1,24 @@
+
+
+.header{
+    grid-area: header;
+    border: 1px solid black;
+    align-content: center;
+
+
+}
+
+.header menu {
+    border: 1px solid black;
+}
+
+.header a {
+    text-decoration: none;
+    color: black;
+    display: inline-flex;
+    border: 1px solid black;
+    padding: 5px;
+    margin: 5px;
+}
+
+.header a:hover { color:black; }
