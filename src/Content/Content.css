@@ -2,5 +2,11 @@
 
 .content{
     grid-area: content;
-    border: 1px solid black;
+}
+
+.content p {
+    margin: 10px;
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 2px;
 }

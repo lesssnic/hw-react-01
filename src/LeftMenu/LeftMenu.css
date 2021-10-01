@@ -1,20 +1,5 @@
 
-.left-menu {
-    grid-area: left-menu;
-    border: 1px solid black;
-}
+.left-nav {
+    grid-area: left-nav;
 
-.left-menu menu {
-    border: 1px solid black;
 }
-
-.left-menu a {
-    text-decoration: none;
-    color: black;
-    display: flex;
-    border: 1px solid black;
-    padding: 5px;
-    margin: 5px;
-}
-
-.left-menu a:hover { color:black; }
